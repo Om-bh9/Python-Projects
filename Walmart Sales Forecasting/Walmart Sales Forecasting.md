@@ -4,6 +4,8 @@
 
 This project focuses on forecasting weekly sales for various retail outlets using historical data analysis and predictive modeling techniques. The goals include understanding the impact of external factors on sales trends and accurately predicting sales for the next 12 weeks.
 
+[View Project File](https://github.com/Om-bh9/Python-Projects/blob/be6f108d8f170aeced8932b81096074f8462c0b6/Walmart%20Sales%20Forecasting/Walmart%20Sales%20Forcasting%20(Capstone%20Project).ipynb)
+
 ## Problem Statement
 
 ### Analytical Goals:
